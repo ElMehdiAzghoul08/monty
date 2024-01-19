@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
  * addnode - function
- * @head: input
- * @n: input
+ * @stack: input
+ * @value: input
  * Return: void
  */
 void addnode(stack_t **stack, int value)

@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * addTopTwoElements - function
+ * add_top_two_nodes - function
  * @stack: input
  * @lineNumber: inpuy
  * Return: void
